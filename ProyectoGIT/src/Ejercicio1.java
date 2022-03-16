@@ -7,7 +7,7 @@ public class Ejercicio1 {
 		
 		System.out.println("Hola");
 		System.out.println("Vuelvo a saludar");
-		System.out.println("Subida conectadaa a GIThub");
+		System.out.println("Subida conectadaa a GiThub");
 		
 	}
 
